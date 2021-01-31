@@ -13,7 +13,7 @@ This repository contains all the self-study material required for [Abstract Dyna
 |Section No.|Title|Notes|Solutions|
 |:---------:|:---:|:---:|:-------:|
 |1.1|[Structure of Dynamic Programming Problems](chapters/Chapter-1.pdf)|[here](notes/chapter-1/1_1.pdf)|[here](solutions/chapter-1.pdf)|
-|1.2|[Abstract Dynamic Programming Models](chapters/Chapter-1.pdf)|[here](notes/chapter-1/1_2.pdf)|[here](solutions/chapter-1.pdf)|
+|1.2|[Abstract Dynamic Programming Models](chapters/Chapter-1.pdf)|[here](notes/chapter-1/1_2.pdf)|[here](solutions/1.pdf)|
 
 #### Chapter-2: Contractive Models
 
