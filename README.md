@@ -17,4 +17,13 @@ This repository contains all the self-study material required for [Abstract Dyna
 
 #### Chapter-2: Contractive Models
 
+|Section No.|Title|Notes|Solutions|
+|:---------:|:---:|:---:|:-------:|
+|2.1|[Bellman’s Equation and Optimality Conditions](chapters/Chapter-2.pdf)|[here](notes/chapter-2/2_1.pdf)|[here](solutions/chapter-2.pdf)|
+|2.2|[Limited Lookahead Policies](chapters/Chapter-2.pdf)|[here](notes/chapter-2/2_2.pdf)|[here](solutions/2.pdf)|
+|2.3|[Value Iteration](chapters/Chapter-2.pdf)|[here](notes/chapter-2/2_3.pdf)|[here](solutions/2.pdf)|
+|2.4|[Policy Iteration](chapters/Chapter-2.pdf)|[here](notes/chapter-2/2_4.pdf)|[here](solutions/2.pdf)|
+|2.5|[Optimistic Policy Iteration and λ-Policy Iteration](chapters/Chapter-2.pdf)|[here](notes/chapter-2/2_5.pdf)|[here](solutions/2.pdf)|
+|2.6|[Asynchronous Algorithms](chapters/Chapter-2.pdf)|[here](notes/chapter-2/2_6.pdf)|[here](solutions/2.pdf)|
+
 
